@@ -1,0 +1,2 @@
+# magicFoto
+site for magic
